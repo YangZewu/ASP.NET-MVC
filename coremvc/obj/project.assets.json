@@ -12077,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Git\\CSharp\\coremvc\\coremvc.csproj",
+      "projectUniqueName": "F:\\Git\\ASP.NET-MVC\\coremvc\\coremvc.csproj",
       "projectName": "coremvc",
-      "projectPath": "F:\\Git\\CSharp\\coremvc\\coremvc.csproj",
+      "projectPath": "F:\\Git\\ASP.NET-MVC\\coremvc\\coremvc.csproj",
       "packagesPath": "C:\\Users\\Yang\\.nuget\\packages\\",
-      "outputPath": "F:\\Git\\CSharp\\coremvc\\obj\\",
+      "outputPath": "F:\\Git\\ASP.NET-MVC\\coremvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
